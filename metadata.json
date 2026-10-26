@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan MathBux - Matematika Anak TK",
+  "description": "Game petualangan matematika interaktif anak TK dengan sistem reward Robux (MathBux), toko avatar virtual, dan visual cerah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
